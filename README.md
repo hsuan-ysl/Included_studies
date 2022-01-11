@@ -3,6 +3,7 @@ Reference list of included studies
 "Assessment of Blinding in Randomized Controlled Trials of Antidepressants for Depressive Disorders 2000–2020: A Systematic Review and Meta-Analysis"
 
 ♦ Studies from the previous review by Baethge (2000-2010)
+
 Burke WJ, Hendricks SE, McArthur-Miller D, et al. Weekly dosing of fluoxetine for the continuation phase of treatment of major depression: results of a placebo-controlled, randomized clinical trial. J Clin Psychopharmacol. 2000;20(4):423-427.
 
 Davidson JR, Gadde KM, Fairbank JA, et al. Effect of Hypericum perforatum (St John's wort) in major depressive disorder: a randomized controlled trial. Jama. 2002;287(14):1807-1814.
@@ -14,6 +15,7 @@ Emslie GJ, Rush AJ, Weinberg WA, et al. A double-blind, randomized, placebo-cont
 Sackeim HA, Haskett RF, Mulsant BH, et al. Continuation pharmacotherapy in the prevention of relapse following electroconvulsive therapy: a randomized controlled trial. Jama. 2001;285(10):1299-1307.
 
 ♦ Studies 2010-2020
+
 Bloch M, Meiboom H, Lorberblatt M, Bluvstein I, Aharonov I, Schreiber S. The effect of sertraline add-on to brief dynamic psychotherapy for the treatment of postpartum depression: a randomized, double-blind, placebo-controlled study. J Clin Psychiatry. 2012;73(2):235-241.
 
 Brunoni AR, Moffa AH, Sampaio-Junior B, et al. Trial of Electrical Direct-Current Therapy versus Escitalopram for Depression. N Engl J Med. 2017;376(26):2523-2533.
